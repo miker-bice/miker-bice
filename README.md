@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mike jerrson galindez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike jerrson galindez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mj-galindez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike jerrson galindez" height="30" width="40" /></a>
 <a href="https://fb.com/mike jerrson galindez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mike jerrson galindez" height="30" width="40" /></a>
 <a href="https://instagram.com/mj_galindez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mj_galindez" height="30" width="40" /></a>
 </p>
