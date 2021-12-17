@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike Jerrson Galindez</h1>
-<h3 align="center">A beginner and Web Developer/Graphic Designer from Calamba City Laguna, Philippines. I am curious in trying out to solve problems and build different things through coding and making them more look and nicer and alive using my graphic design skills as well. Currently I am still learning a lot about web development, both in the front-end and back-end field. Hope we can collaborate!!</h3>
+<h3 align="center">A beginner and Web Developer/Graphic Designer from Calamba City Laguna, Philippines. I am curious in trying to solve problems and build different things through coding and make them look more and nicer and alive using my graphic design skills as well. Currently, I am still learning a lot about web development, both in the front-end and back-end field. Hope we can collaborate!!</h3>
 
 - 🔭 I’m currently working on [simple-freedom-wall-app](https://github.com/miker-bice/simple-freedom-wall-app)
 
