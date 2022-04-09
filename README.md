@@ -1,3 +1,5 @@
+![image-banner](https://github.com/miker-bice/miker-bice/blob/main/my-banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Mike Jerrson Galindez</h1>
 <h3 align="center">A beginner Web Developer and a Graphic Designer. I like to solve problems and build different
 things that I am passionate about. Currently, I am still learning the basics of web development, both in the front-end and back-end. Hope we can collaborate!</h3>
