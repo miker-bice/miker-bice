@@ -10,7 +10,7 @@ things that I am passionate about. Currently, I am still learning the basics of 
 
 - 👯 I’m looking to collaborate on [the Django project](https://github.com/django/django)
 
-- 💬 Ask me about **Adobe Photoshop, Adobe Illustrator and anything about the John Wick universe**
+- 💬 Ask me about **Adobe Photoshop, Adobe Illustrator and anything about the John Wick universe or the One Punch Man universe**
 
 - 📫 How to reach me **mikejerrson.galindez@gmail.com**
 
