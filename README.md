@@ -1,4 +1,4 @@
-![image-banner](https://github.com/miker-bice/miker-bice/blob/main/my-banner.jpg)
+![image-banner](https://github.com/miker-bice/miker-bice/blob/main/new-cover.jpg)
 
 <h1 align="center">Hi 👋, I'm Mike Jerrson Galindez</h1>
 <h3 align="center">A beginner Web Developer and a Graphic Designer. I like to solve problems and build different
