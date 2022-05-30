@@ -4,7 +4,7 @@
 <h3 align="center">A beginner Web Developer and a Graphic Designer. I like to solve problems and build different
 things that I am passionate about. Currently, I am still learning the basics of web development, both in the front-end and back-end. Hope we can collaborate!</h3>
 
-- 🔭 I’m currently working on [django-tailwind-todo](https://github.com/miker-bice/django_tailwind_todo)
+- 🔭 I’m currently working on [stock_market_django](https://github.com/abaddon431/stock_market_django)
 
 - 🌱 I’m currently learning **Django, Javascript and SQL**
 
